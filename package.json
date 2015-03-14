@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ftTony/wechat-stock/issues"
   },
-  "homepage": "https://github.com/ftTony/wechat-stock#readme"
+  "homepage": "https://github.com/ftTony/wechat-stock#readme",
+  "dependencies": {
+    "wechaty": "^0.32.5",
+    "wechaty-puppet-padplus": "^0.4.8"
+  }
 }
